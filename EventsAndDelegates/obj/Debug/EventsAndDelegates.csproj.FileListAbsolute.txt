@@ -1,0 +1,6 @@
+F:\C# tutorial\python\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+F:\C# tutorial\python\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+F:\C# tutorial\python\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+F:\C# tutorial\python\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csprojResolveAssemblyReference.cache
+F:\C# tutorial\python\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+F:\C# tutorial\python\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb
